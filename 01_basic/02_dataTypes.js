@@ -9,8 +9,8 @@ let age=19; //number
 let isLoggedIn=false;
 
 console.log(typeof age);
-console.log(typeof null);
-console.log(typeof undefined);
+console.log(typeof null); // object
+console.log(typeof undefined); // undefined
 console.table([typeof namee, typeof age, typeof isLoggedIn]);
 
 
