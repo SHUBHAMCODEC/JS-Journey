@@ -1,6 +1,6 @@
-"use strict"; // treat all js ode as newer version 
+"use strict"; // treat all js code as newer version 
 
-// alert(3+3) // error will occur  ass wea are using nodejs, not browser
+// alert(3+3) // error will occur  as we are using nodejs, not browser
 
 console.log(3+3);
 
@@ -20,4 +20,7 @@ console.table([typeof namee, typeof age, typeof isLoggedIn]);
 //symbol => unique 
 
 // object
+
+
+/*console.alert("hii shubham")// this also not woks in nodejs*/
 
